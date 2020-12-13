@@ -184,3 +184,5 @@ set makeprg=bundle\ exec\ rspec\ -f\ QuickfixFormatter
 "                     - Internal Training
 "                       - Encouragement
 
+set rnu
+set nu
