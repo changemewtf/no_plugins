@@ -7,11 +7,11 @@ You may also be interested in my Vim cheat sheets:
 
 Basic ([Digital](https://thingsfittogether.com/product/vim-basics-cheat-sheet-digital-download/) | [Print](https://thingsfittogether.com/product/vim-cheat-sheet-basics-print/)):
 
-![Basic Vim Cheat Sheet](/https://thingsfittogether.com/wp-content/uploads/2021/03/Vim-Cheatsheet-2-Final-Draft.png)
+![Basic Vim Cheat Sheet](https://thingsfittogether.com/wp-content/uploads/2021/03/Vim-Cheatsheet-2-Final-Draft.png)
 
 Advanced ([Digital](https://thingsfittogether.com/product/vim-cheat-sheet-basics-print/) | [Print](https://thingsfittogether.com/product/vim-cheat-sheet-advanced-print/)):
 
-![Advanced Vim Cheat Sheet](/https://thingsfittogether.com/wp-content/uploads/2020/12/vimposterv1movie.png)
+![Advanced Vim Cheat Sheet](https://thingsfittogether.com/wp-content/uploads/2020/12/vimposterv1movie.png)
 
 # Summary
 
