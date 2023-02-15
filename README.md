@@ -39,8 +39,9 @@ listing of all matching tags, and `^t` to jump *back* up the tag stack.
 ## Autocomplete
 
 Vim has plenty of ways to do autocomplete. The best is `^n` which works out of the box
-according to the `complete` option. Use `^p` to go back in the suggestion list, and 
-`^e` to accept the current completion choice.
+according to the `complete` option. Use `^p` to go back in the suggestion list, 
+`^y` to accept the current completion choice, and `^e` to cancel out of the autocompletion
+dialog to return to your text without making a selection.
 
 There are also a number of other autocomplete features prefixed by `^x`:
 
